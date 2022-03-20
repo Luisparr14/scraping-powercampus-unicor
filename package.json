@@ -1,14 +1,14 @@
 {
   "name": "scrappin-powercampus",
   "version": "1.0.0",
-  "description": "",
+  "description": "Aplicacion que permite monitorear el estado de inscripciones de alumnos en el sistema de PowerCampus",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Luis Angel Parra Meza",
+  "license": "MIT",
   "dependencies": {
     "@playwright/test": "^1.20.0",
     "dotenv": "^16.0.0",
